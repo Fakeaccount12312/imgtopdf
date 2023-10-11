@@ -5,4 +5,4 @@ Seriously, its quite robust, give it a .fpx and a .jfif file in a tar.gz file th
 
 ## Installation:
 
-Install python and pip, install PIL using pip.
+Install python and pip, install PIL using pip. Download the script and use it.
